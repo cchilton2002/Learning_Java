@@ -10,8 +10,6 @@ class Main{
         System.out.print("What is your second number: ");
         double number2 = scanner.nextDouble();
 
-        System.out.println(number1);
-        System.out.println(number2);
     }
 }
 
